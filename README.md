@@ -7,4 +7,5 @@
 <img src="Google_Maps_icon_(2020).svg" width="16" height="16"> [Google Maps icon](https://de.m.wikipedia.org/wiki/Datei:Google_Maps_icon_%282020%29.svg)  
 <img src="Google_Translate_logo.svg" width="16" height="16"> [Google Translate icon](https://de.m.wikipedia.org/wiki/Datei:Google_Translate_logo.svg)  
 <img src="speedtestbyookla-300x300.png" width="16" height="16"> [Ookla Speedtest icon](https://www.rvmobileinternet.com/gear/ookla-speed-test)  
+<img src="13090952.png" width="16" height="16"> [New Tab icon](https://www.iconfinder.com/icons/11336518/tab_new_browser_web_tabs_icon)  
 <img src="lines_minimalist_square_artistic_purple_hd_abstract.jpg" width="16" height="16"> [Wallpaper](https://www.hdwallpapers.in/lines_minimalist_square_artistic_purple_hd_abstract-wallpapers.html)
